@@ -17,23 +17,23 @@ By the end of this repository, you should be able to:
 
 Work through the notebooks in order. Pairing up and explaining each step to a partner is a good way to test your understanding.
 
-| File / Folder                                                            | Description                                                                                                                  |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [**1 - Visualisation**](1_decision_trees_visualization.ipynb)            | Build classification and regression trees on small datasets, then plot the trees and their decision boundaries.              |
-| [**2 - Classification**](2_decision_trees_classification.ipynb)          | Apply a classifier to a real, imbalanced health survey: metric choice, baseline model, error analysis, and feature importance. |
-| [**3 - Recap**](3_decision_trees_recap.ipynb)                            | Recap the key concepts and step through a decision tree built from scratch in pure Python.                                   |
+| File / Folder                                                        | Description                                                                                                                    |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [**1 - Visualisation**](1_decision_trees_visualization.ipynb)   | Build classification and regression trees on small datasets, then plot the trees and their decision boundaries.                |
+| [**2 - Classification**](2_decision_trees_classification.ipynb) | Apply a classifier to a real, imbalanced health survey: metric choice, baseline model, error analysis, and feature importance. |
+| [**3 - Recap**](3_decision_trees_recap.ipynb)                   | Recap the key concepts and step through a decision tree built from scratch in pure Python.                                     |
 
 ### Additional Folders and Files
 
-| File / Folder                                                            | Description                                                  |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [**Helper and Plotting Functions**](helper_and_plotting_functions.py)    | Shared functions for evaluating models and plotting results. |
-| [**Solutions**](solutions/)                                              | Reference solutions.                                        |
-| [**Assets**](assets/)                                                    | Diagram files: the tree SVG and an Excalidraw recap board.  |
-| [**Codebook Report**](llcp_2022_codebook_report.pdf)                     | Column descriptions for the BRFSS survey dataset.           |
-| [**data.zip**](data.zip)                                                 | The dataset, bundled as a zip (unzip it during setup).      |
-| [**pyproject.toml**](pyproject.toml)                                     | Project configuration and dependencies.                     |
-| [**uv.lock**](uv.lock)                                                   | Dependency lock file.                                       |
+| File / Folder                                                              | Description                                                  |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [**Helper and Plotting Functions**](helper_and_plotting_functions.py) | Shared functions for evaluating models and plotting results. |
+| [**Solutions**](solutions/)                                           | Reference solutions.                                         |
+| [**Assets**](assets/)                                                 | Diagram files: the tree SVG and an Excalidraw recap board.   |
+| [**Codebook Report**](llcp_2022_codebook_report.pdf)                  | Column descriptions for the BRFSS survey dataset.            |
+| [**data.zip**](data.zip)                                              | The dataset, bundled as a zip (unzip it during setup).       |
+| [**pyproject.toml**](pyproject.toml)                                  | Project configuration and dependencies.                      |
+| [**uv.lock**](uv.lock)                                                | Dependency lock file.                                        |
 
 ## Setup
 
